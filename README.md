@@ -5,7 +5,7 @@ Backend dev
 -----------
 
 *   🌍  I'm based in India
-*   🧠  I'm learning Rust
+*   🧠  I'm learning Golang
 *   🤝  I'm open to collaborating on interesting projects in web dev or using rust
 
 ### Skills
